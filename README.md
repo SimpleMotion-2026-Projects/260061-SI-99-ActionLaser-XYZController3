@@ -10,9 +10,9 @@
   <em>Engineered for Architecture, Entertainment and Industry.</em>
 </p>
 
-# 260051-SI-99-ActionLaser-XYZController3
+# 260061-SI-99-ActionLaser-XYZController3
 
-**Project ID:** 260051-SI
+**Project ID:** 260061-SI
 **Client:** Action Laser Pty Ltd
 **Project Title:** XYZ Controller 3
 **Derived From:** 260046-SI-99-ActionLaser-LVDTReplacement
@@ -24,7 +24,7 @@ Actionlaser XYZ Controller 3 project - part of the XYZ Controller series derived
 ## Project Structure
 
 ```
-260051-SI-99-ActionLaser-XYZController3/
+260061-SI-99-ActionLaser-XYZController3/
 ├── 10-Engage/           # Client engagement documents
 │   ├── 11-Client/       # Documents received from client
 │   ├── 12-SimpleMotion/ # Assets for outbound documents
