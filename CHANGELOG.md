@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file.
 
 | Version | Hash | Date | Author | Message |
 |---------|------|------|--------|
-| v0.0.0.14 | 89b94b7 | 2026-02-26 05:29 UTC | Greg Gowans | Fix .gitmodules URLs, .claude to v0.0.0.189, .github to v0.0.0.7, .github-private to v0.0.0.7 |
+|
+| v0.0.0.15 | 454ee0a | 2026-02-28 12:26 UTC | Greg Gowans | Update .claude submodule to v0.0.0.199 | v0.0.0.14 | 89b94b7 | 2026-02-26 05:29 UTC | Greg Gowans | Fix .gitmodules URLs, .claude to v0.0.0.189, .github to v0.0.0.7, .github-private to v0.0.0.7 |
 | v0.0.0.13 | 2c02fe6 | 2026-02-01 22:00 UTC | Greg Gowans | Remove .simplemotion local data directory |---------|
 | v0.0.0.11 | 92d7f4e | 2026-02-01 20:25 UTC | Greg | Simplify CLAUDE.md, reference global /sm-quote and /sm-invoice commands |
 | v0.0.0.10 | 597e127 | 2026-01-30 14:03 UTC | Greg Gowans | Add local CLAUDE.md for project context |
